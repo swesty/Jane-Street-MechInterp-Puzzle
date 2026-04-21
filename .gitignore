@@ -211,3 +211,6 @@ __marimo__/
 model/
 *.pt
 brute5
+
+# Downloaded third-party content
+space/
